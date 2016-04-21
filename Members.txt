@@ -2,6 +2,10 @@ LISTS OF MEMBERS FOR TEAM 31
 
 
 MEMBER 1 ZOE 
+<<<<<<< HEAD
+hey there m8y
+=======
+>>>>>>> origin/master
 
 MEMBER 2 ANDREW
 
