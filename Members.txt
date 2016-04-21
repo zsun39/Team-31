@@ -1,14 +1,6 @@
 LISTS OF MEMBERS FOR TEAM 31
 
 MEMBER 1 ZOE 
-<<<<<<< HEAD
-<<<<<<< HEAD
-hey there m8y
-=======
->>>>>>> origin/master
-=======
-hey there
->>>>>>> parent of 50f3576... m8y
 
 MEMBER 2 ANDREW
 
